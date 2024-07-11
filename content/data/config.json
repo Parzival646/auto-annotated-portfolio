@@ -98,5 +98,12 @@
         }
     },
     "titleSuffix": "TH SERVIÇOS",
-    "defaultSocialImage": "/images/Cópia de TH.png"
+    "defaultSocialImage": "/images/Cópia de TH.png",
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag",
+            "property": "og:title",
+            "content": ""
+        }
+    ]
 }
