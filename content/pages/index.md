@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      ou desenvolvedor, artista digital, consultor e vários outros títulos
+      Sou desenvolvedor, artista digital, consultor e vários outros títulos
       impressionantes e palavras da moda.
     subtitle: >-
       Esta é a minha informação – estou compartilhando tudo isso com vocês para
