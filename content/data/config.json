@@ -24,7 +24,16 @@
                 "url": "/blog"
             }
         ],
-        "socialLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://github.com/Parzival646",
+                "icon": "github",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "full"
