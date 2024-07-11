@@ -32,6 +32,14 @@
                 "url": "https://github.com/Parzival646",
                 "icon": "github",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.instagram.com/thservicos.shop",
+                "icon": "instagram",
+                "elementId": ""
             }
         ],
         "styles": {
