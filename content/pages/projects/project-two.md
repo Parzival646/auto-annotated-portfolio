@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Outro projeto legal
 colors: colors-a
-date: '2021-07-11'
+date: '2024-07-11'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
