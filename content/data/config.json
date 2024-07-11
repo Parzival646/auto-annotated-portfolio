@@ -4,7 +4,7 @@
     "header": {
         "type": "Header",
         "headerVariant": "variant-b",
-        "isSticky": true,
+        "isSticky": false,
         "title": "TH SERVIÇOS",
         "isTitleVisible": true,
         "primaryLinks": [
