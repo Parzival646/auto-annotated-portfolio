@@ -6,7 +6,7 @@
         "headerVariant": "variant-c",
         "isSticky": false,
         "title": "TH SERVIÇOS",
-        "isTitleVisible": false,
+        "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
