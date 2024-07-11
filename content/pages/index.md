@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: >-
       Sou desenvolvedor, artista digital, consultor e vários outros títulos
       impressionantes e palavras da moda.
