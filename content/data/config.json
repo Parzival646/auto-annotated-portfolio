@@ -76,7 +76,7 @@
                 "type": "Link",
                 "label": "Blog",
                 "url": "/blog",
-                "altText": ""
+                "altText": "https://mastodon.social/deck/@thayler"
             },
             {
                 "type": "Link",
