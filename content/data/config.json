@@ -3,7 +3,7 @@
     "favicon": "/images/Cópia de TH.png",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-b",
+        "headerVariant": "variant-c",
         "isSticky": false,
         "title": "TH SERVIÇOS",
         "isTitleVisible": true,
@@ -11,7 +11,9 @@
             {
                 "type": "Link",
                 "label": "Info",
-                "url": "/info"
+                "url": "/info",
+                "showIcon": true,
+                "iconPosition": "right"
             },
             {
                 "type": "Link",
@@ -24,7 +26,24 @@
                 "url": "/blog"
             }
         ],
-        "socialLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "GITHUB",
+                "altText": "",
+                "url": "https://github.com/Parzival646",
+                "icon": "github",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "INSTAGRAM",
+                "altText": "",
+                "url": "https://www.instagram.com/thservicos.shop",
+                "icon": "instagram",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "full"
