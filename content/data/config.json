@@ -93,7 +93,7 @@
             "email": "suport@thayler.com",
             "emailAltText": "My email",
             "address": "",
-            "addressAltText": "My address"
+            "addressAltText": ""
         },
         "copyrightText": "Powered by [Thayler](thayler.com)\n",
         "styles": {
