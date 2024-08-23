@@ -7,7 +7,7 @@ backgroundImage:
   url: /images/pngtree-light-gray-background-texture-image_995291.jpg
   backgroundSize: cover
   backgroundPosition: center
-  backgroundRepeat: no-repeat
+  backgroundRepeat: repeat
   opacity: 50
 sections:
   - elementId: ''
